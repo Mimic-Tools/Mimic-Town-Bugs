@@ -1,2 +1,2 @@
 # Mimic-Town-Bugs
-File Issues Here
+File Bug/Issues/Defects Here
